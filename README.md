@@ -28,7 +28,7 @@ Este script de Python genera archivos SVG y PDF a partir de una plantilla base S
 
 4. Ejecuta el script `generador.py` en la terminal con el siguiente comando:
 
-python generador.py
+`python generador.py`
 
 
 5. Los archivos PDF se generarán en el directorio especificado en `output_dir`.
