@@ -1,99 +1,527 @@
-+527757712111
-+524411112143
-+524422709567
-+524427501752
-+524425081138
-+524427561097
-+524426040108
-+524461380515
-+527223766880
-+524421090280
-+524271025525
-+524427488398
-+524421948996
-+524423220235
-+524426207212
-+524444145391
-+524427825376
-+524428019706
-+524425516570
-+525581699274
-+524271800096
-+524422333558
-+524421374051
-+524421019000
-+524421540093
-+524421784678
-+527731167270
-+524424612447
-+524423891239
-+524611493299
-+524424571914
-+524422379084
-+524424251677
-+524425537373
-+524424451388
-+524422491147
-+524428500510
-+524423944415
-+524424327828
-+524426675331
-+524424312182
-+524423589819
-+524422260651
-+524424967413
-+524631019294
-+524421145123
-+524421143007
-+524425505413
-+524422022879
-+524426583212
-+527731142634
-+524441752026
-+524421212739
-+527471174525
-+525516486463
-+524428126740
-+522281032102
-+524422718605
-+524121899297
-+524426687592
-+524421160492
-+524613548702
-+524422720629
-+522461429472
-+524423189732
-+524424613866
-+524422571647
-+524423426192
-+524426385855
-+524423172607
-+524427485830
-+524425977740
-+524421287022
-+524422261640
-+524428774793
-+524426381874
-+524428250436
-+524411362429
-+524611246479
-+524424227511
-+524424652583
-+524428202861
-+524422360589
-+524426610048
-+524421970782
-+524461060173
-+525529166592
-+525533348646
-+524481138105
-+529513106462
-+524481020749
-+524171068319
-+524421704828
-+525540055982
-+523221441739
-+524422117092
-+524112100809
-+524427150536
-+524424795960
+TAG:PG-79371
+Servicio:RETORNO DE AGUA DE ENFRIAMIENTO BOMBAS GA-79015AX/BX
+Fabricante:WIKA
+Model Code PI:232.34-U-AG369P-ND-UZHQAZN-1ZZZ
+Model Code Seal:NA
+# de Serie:8200ANY1 
+Rango de presión (kg/cm2- g)0-7 
+Fecha de Fabricación:10-ago-22
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG-79372
+Servicio:SUMINISTRO DE AGUA DE ENFRIAMIENTO BOMBAS GA-79015AX
+Fabricante:WIKA
+Model Code PI:232.34-U-SP411P-ND-UZHQAZN-1ZZZ
+Model Code Seal:NA
+# de Serie:8200AO09 
+Rango de presión (kg/cm2- g)0-11
+Fecha de Fabricación:02-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79007
+Servicio:LPG COMBINADO DE UNID. HDN # 1 y #2 A DS-79001
+Fabricante:WIKA
+Model Code PI:232.34-U-SP442P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AN7T 
+Rango de presión (kg/cm2- g)0-42
+Fecha de Fabricación:22-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79013
+Servicio:GAS FLASH DE LA UNIDAD HDTGO A EA-79101
+Fabricante:WIKA
+Model Code PI:232.34-U-SP456P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AQTR 
+Rango de presión (kg/cm2- g)0-56
+Fecha de Fabricación:22-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79033
+Servicio:PRESIÓN DE SUCCIÓN DE AGUA AMARGA DE BR-79001
+Fabricante:WIKA
+Model Code PI:233.34-U-SP421P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-DZZZD-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AONP 
+Rango de presión (kg/cm2- g)0-21
+Fecha de Fabricación:23-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79034
+Servicio:PRESIÓN DE DESCARGA DE AGUA AMARGA DE BR-79001
+Fabricante:WIKA
+Model Code PI:233.34-U-SP421P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-DZZZD-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AONQ 
+Rango de presión (kg/cm2- g)0-21
+Fecha de Fabricación:23-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79037
+Servicio:PRESIÓN DE SUCCIÓN DE AGUA AMARGA DE BR-79001R
+Fabricante:WIKA
+Model Code PI:233.34-U-AG420P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-DZZZD-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AONN 
+Rango de presión (kg/cm2- g)0-20
+Fecha de Fabricación:23-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79038
+Servicio:PRESIÓN DE DESCARGA DE AGUA AMARGA DE BR-79001R
+Fabricante:WIKA
+Model Code PI:233.34-U-AG420P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-DZZZD-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AONO 
+Rango de presión (kg/cm2- g)0-20
+Fecha de Fabricación:23-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79048
+Servicio:DE LÍMITE DE BATERÍA NAFTA DE HDN A GB-79001
+Fabricante:WIKA
+Model Code PI:232.34-U-AG416P-ND-UZHQAZZ-1ZZZ
+Model Code Seal:NA
+# de Serie:8200ANZB 
+Rango de presión (kg/cm2- g)0-16
+Fecha de Fabricación:02-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79050
+Servicio:SUCCIÓN DE CONDENSADO DE BAJA PRESIÓN DE GA-79011R
+Fabricante:WIKA
+Model Code PI:433.36-ZZZF-L-AG320P-ND-U2-IZ-CLAGZ-1ZZZ
+Model Code Seal:NA
+# de Serie:110IBCUR 
+Rango de presión (kg/cm2- g)0-2
+Fecha de Fabricación:22-jun-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79056
+Servicio:SUCCIÓN DE CONDENSADO DE BAJA PRESIÓN DE GA-79011
+Fabricante:WIKA
+Model Code PI:433.36-ZZZF-L-AG320P-ND-U2-IZ-CLAGZ-1ZZZ
+Model Code Seal:NA
+# de Serie:110IBCUS 
+Rango de presión (kg/cm2- g)0-2
+Fecha de Fabricación:22-jun-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79057
+Servicio:DESCARGA DE CONDENSADO DE BAJA PRESIÓN DE GA-79011
+Fabricante:WIKA
+Model Code PI:233.34-U-SP510P-ND-UZHQAZZ-1ZZZ
+Model Code Seal:NA
+# de Serie:8200AO0E 
+Rango de presión (kg/cm2- g)0-102
+Fecha de Fabricación:02-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79067
+Servicio:ACEITE POBRE DE GA-79002/R A EA-79003A/B
+Fabricante:WIKA
+Model Code PI:232.34-U-AG459P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AQTM 
+Rango de presión (kg/cm2- g)0-60
+Fecha de Fabricación:24-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79068
+Servicio:ACEITE POBRE DE EA- 79003A/B A DA-79002
+Fabricante:WIKA
+Model Code PI:232.34-U-AG459P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-DZZZD-C8665ZA1-3ZA2ZZZZ  H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AO1V
+Rango de presión (kg/cm2- g)0-60
+Fecha de Fabricación:23-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79071
+Servicio:DESCARGA DE CONDENSADO DE BAJA PRESIÓN DE GA-79011R
+Fabricante:WIKA
+Model Code PI:233.34-U-SP510P-ND-UZHQAZZ-1ZZZ
+Model Code Seal:NA
+# de Serie:8200AO0F 
+Rango de presión (kg/cm2- g)0-102
+Fecha de Fabricación:02-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79096
+Servicio:FONDO DE DESBUTANIZADORA DE EA-79006 A EA-79019
+Fabricante:WIKA
+Model Code PI:232.34-U-SP428P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-DZZZD-C8665ZA2-3ZA2ZZZZ  H990.10-P3FD6C1H2H2VP21ZZZ
+# de Serie:8200AR3N
+Rango de presión (kg/cm2- g)0-28
+Fecha de Fabricación:16-sep-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79101
+Servicio:GAS RESIDUAL DE OSBL A EA-79000
+Fabricante:WIKA
+Model Code PI:232.34-U-SP421P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AQTW
+Rango de presión (kg/cm2- g)0-21
+Fecha de Fabricación:22-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79103
+Servicio:GAS RESIDUAL DE EA-79000 A FA-79001
+Fabricante:WIKA
+Model Code PI:232.34-U-SP421P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AQTX
+Rango de presión (kg/cm2- g)0-21
+Fecha de Fabricación:22-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79104
+Servicio:FLUJO DE AEROENFRIADOR EC-79001A/B/C/D A EA-79007A/B
+Fabricante:WIKA
+Model Code PI:232.34-U-SP428P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AQTL
+Rango de presión (kg/cm2- g)0-28
+Fecha de Fabricación:24-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79151
+Servicio:CONDENSADO LIMPIO DE OSBL A TRATAMIENTO CAUSTICO LPG
+Fabricante:WIKA
+Model Code PI:232.34-U-SP412P-ND-UZHQAZZ-1ZZZ
+Model Code Seal:NA
+# de Serie:8200ANZ6
+Rango de presión (kg/cm2- g)0-12
+Fecha de Fabricación:02-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79191
+Servicio:AMINA POBRE CALIENTE DE GA-79101/R A EA-79102
+Fabricante:WIKA
+Model Code PI:232.34-U-AG469P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AQTK
+Rango de presión (kg/cm2- g)0-70
+Fecha de Fabricación:24-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79193
+Servicio:SUMINISTRO DE AGUA DE ENFR. A EA-79102
+Fabricante:WIKA
+Model Code PI:232.34-U-SP411P-ND-UZHQAZN-1ZZZ
+Model Code Seal:NA
+# de Serie:8200AO07
+Rango de presión (kg/cm2- g)0-11
+Fecha de Fabricación:02-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79197
+Servicio:GAS FLASH DE EA-79101A/B A FA-79101
+Fabricante:WIKA
+Model Code PI:232.34-U-SP456P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-DZZZD-C8665ZA1-3ZA2ZZZZ  H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AQT5
+Rango de presión (kg/cm2- g)0-56
+Fecha de Fabricación:24-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79262
+Servicio:ACEITE RICO DE DA-79002 A FCC, PCR Y UDC
+Fabricante:WIKA
+Model Code PI:232.34-U-SP456P-ND-UZHQAZN-1ZZZ
+Model Code Seal:NA
+# de Serie:8200AO0D
+Rango de presión (kg/cm2- g)0-56
+Fecha de Fabricación:02-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79346
+Servicio:GAS FLASH TRATADO DE PSA A CABEZAL OSBL
+Fabricante:WIKA
+Model Code PI:232.34-U-SP411P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AO4I
+Rango de presión (kg/cm2- g)0-11
+Fecha de Fabricación:24-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PG‐79439
+Servicio:PRES. DE AMINA RICA EN DESCARGA DE BOMBA BR-79302R
+Fabricante:WIKA
+Model Code PI:233.34-U-SP456P-ND-UZHQAZN-1ZZZ
+Model Code Seal:DSS1-MT990.10-123X34-MK1MA-C8665ZA1-3ZA2ZZZZ H990.10-P3FD6C1C2C1VP21ZZZ
+# de Serie:8200AQTZ
+Rango de presión (kg/cm2- g)0-56
+Fecha de Fabricación:22-ago-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79035
+Servicio:PRES. DIF. DE SUCCIÓN DE AGUA AMARGA DE BR-79001
+Fabricante:WIKA
+Model Code PI:732.31-ZZZF-8KG259P-CS-UZZZZXXNZ-ZZZZ  
+Model Code Seal:DSS2-MT990.40-173251-MK1MA-C8665ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB29Y 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:01-jun-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79036
+Servicio:PRES. DIF. DE SUCCIÓN DE AGUA AMARGA DE BR-79001R
+Fabricante:WIKA
+Model Code PI:732.31-ZZZF-8KG259P-CS-UZZZZXXNZ-ZZZZ  
+Model Code Seal:DSS2-MT990.40-173251-MK1MA-C8665ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB29Z 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:18-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79062
+Servicio:PRES. DIF DE SUCCIÓN DE ACEITE POBRE DE GA-79002
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ 
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-AZZAZ2ZZZ H990.40-P3FD6C1H2H2VP21ZZZ
+# de Serie:110IB2GR 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:01-jun-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79063
+Servicio:PRES. DIF. DE SUCCIÓN DE ACEITE POBRE DE GA-79002R
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ 
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-AZZAZ2ZZZ H990.40-P3FD6C1H2H2VP21ZZZ
+# de Serie:110IB2GS 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:01-jun-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79072
+Servicio:PRES. DIF. DE SUCCIÓN DE COND. DE BAJA DE GA-79011R
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-5Q-AZZZAHNZ-1ZZZ
+Model Code Seal:NA
+# de Serie:110IL3OE 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:20-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79073
+Servicio:PRES. DIF. DE SUCCIÓN DE COND. DE BAJA DE GA-79011
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-5Q-AZZZAHNZ-1ZZZ
+Model Code Seal:NA
+# de Serie:110IL3OF 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:20/07/2022
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79077
+Servicio:PRES. DIF. DE SUCCIÓN DE AGUA AMARGA DE GA-79012
+Fabricante:WIKA
+Model Code PI:732.31-ZZZF-8KG259P-CS-UZZZZXXNZ-ZZZZ  
+Model Code Seal:DSS2-MT990.40-173251-MK1MA-C8665ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2A0 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:18-jul-22
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79080
+Servicio:PRES. DIF. DE SUCCIÓN DE AGUA AMARGA DE GA-79012R
+Fabricante:WIKA
+Model Code PI:732.31-ZZZF-8KG259P-CS-UZZZZXXNZ-ZZZZ  
+Model Code Seal:DSS2-MT990.40-173251-MK1MA-C8665ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2A1 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:18-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79091
+Servicio:PRES. DIF. DE SUCCIÓN DE NAFTA DE GA-79004
+Fabricante:WIKA
+Model Code PI:732.31-ZZZF-8KG259P-CS-UZZZZXXNZ-ZZZZ  
+Model Code Seal:DSS2-MT990.40-173251-MK1MA-C8665ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2A2
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:19-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79092
+Servicio:PRES. DIF. DE SUCCIÓN DE NAFTA DE GA-79004R
+Fabricante:WIKA
+Model Code PI:732.31-ZZZF-8KG259P-CS-UZZZZXXNZ-ZZZZ  
+Model Code Seal:DSS2-MT990.40-173251-MK1MA-C8665ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2A3 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:19-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79113
+Servicio:PRES. DIF. DE SUCCIÓN DE REFLUJO DE GA-79005R
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2GH 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:21-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79114
+Servicio:PRES. DIF. DE SUCCIÓN DE REFLUJO DE GA-79005
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2GI 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:21-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79147
+Servicio:PRES. DIF. DE SUCCIÓN DE PROPANO DE GA-79006
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-5Q-AZZZAHNZ-1ZZZ
+Model Code Seal:NA
+# de Serie:110IL3OG 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:20-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79148
+Servicio:PRES. DIF. DE SUCCIÓN DE PROPANO DE GA-79006R
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-5Q-AZZZAHNZ-1ZZZ
+Model Code Seal:NA
+# de Serie:110IL3OH 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:20-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79178
+Servicio:PRES. DIF. SUCC. DE NAFTA DE RECONTAC DE GA-79008
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2GJ 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:21-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79181
+Servicio:PRES. DIF. SUCC. DE NAFTA DE RECONTAC DE GA-79008R
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2GK 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:21-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79186
+Servicio:PRES. DIF. DE SUCCIÓN DE AMINA POBRE DE GA-79101
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2GL 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:22-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79189
+Servicio:PRES. DIF. DE SUCCIÓN DE AMINA POBRE DE GA-79101R
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-AZZAZ2ZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2GM 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:22-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79436
+Servicio:PRES. DIF. DE SUCC. DE AMINA RICA DE BOMBA BR-79302
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ  
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-3ZZAZZZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2GP 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:01-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79437
+Servicio:PRES. DIF. DE SUCC. DE AMINA RICA DE BOMBA BR-79302R
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-CS-UZZZXXNZ-ZZZZ  
+Model Code Seal:DSS2-MT990.40-173214-MK1MA-C6465ZA1-3ZZAZZZZZ H990.40-P3FD6C1C2C1VP21ZZZ
+# de Serie:110IB2GQ 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:30-jun-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79442
+Servicio:PRES. DIF. SUCC. DE AGUA DE ALIM. DE BOMBA BR-79303
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-5Q-AZZZAHNZ-1ZZZ
+Model Code Seal:NA
+# de Serie:110IL3OI 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:20-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
+
+TAG:PDG ‐79448
+Servicio:PRES. DIF. SUCC. DE AGUA DE ALIM. DE BOMBA BR-79303R
+Fabricante:WIKA
+Model Code PI:732.14-ZZZF-HKG259P-5Q-AZZZAHNZ-1ZZZ
+Model Code Seal:NA
+# de Serie:110IL3OJ 
+Rango de presión (kg/cm2- g)0-0.6
+Fecha de Fabricación:20-jul-22 
+Material de Fabricación:Stainless Steel 316L
+Aprobación del instrumento:EN 10204 3.1
