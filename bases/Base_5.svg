@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3in"
+   height="1.5in"
+   viewBox="0 0 76.200001 38.100001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="Base.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     width="3in"
+     inkscape:zoom="2.5398704"
+     inkscape:cx="72.838362"
+     inkscape:cy="89.76836"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <rect
+       x="22.048369"
+       y="29.922787"
+       width="27.560461"
+       height="9.449301"
+       id="rect402" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       class="fil0 str0"
+       d="M 4.516,1.499985e-7 H 71.684 C 74.1777,1.499985e-7 76.2,2.6161001 76.2,5.8421001 V 32.2579 c 0,3.2259 -2.0223,5.842 -4.516,5.842 L 4.516,38.1 C 2.0224,38.0999 1e-4,35.4838 1e-4,32.2578 L 0,5.8421001 C 1e-4,2.6161001 2.0224,1.499985e-7 4.5161,1.499985e-7 Z"
+       id="path97"
+       style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#373435;stroke-width:0.2;stroke-miterlimit:22.9256;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <circle
+       class="fil0 str0"
+       cx="3.1708333"
+       cy="19.050301"
+       r="1"
+       id="circle99"
+       style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#373435;stroke-width:0.2;stroke-miterlimit:22.9256;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.83444px;line-height:3.3px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="5.6518216"
+       y="8.1171532"
+       id="text6626"><tspan
+         sodipodi:role="line"
+         id="tspan6624"
+         style="font-weight:normal;font-size:1.83444px;stroke-width:0.264583"
+         x="5.6518216"
+         y="8.1171532"
+         dy="0"
+         dx="0">TAG:  CAMBIAR0AQUI</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.83444px;stroke-width:0.264583"
+         x="5.6518216"
+         y="11.417153"
+         id="tspan7624">SERVICIO: CAMBIAR1AQUI</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.83444px;stroke-width:0.264583"
+         x="5.6518216"
+         y="14.717153"
+         id="tspan7626">FABRICANTE: CAMBIAR2AQUI</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.83444px;stroke-width:0.264583"
+         x="5.6518216"
+         y="18.017155"
+         id="tspan7628">MODELO: CAMBIAR3AQUI</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.83444px;stroke-width:0.264583"
+         x="5.6518216"
+         y="21.317154"
+         id="tspan7630">NÚMERO DE SERIE: CAMBIAR4AQUI</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.83444px;stroke-width:0.264583"
+         x="5.6518216"
+         y="24.617153"
+         id="tspan7632">TIPO DE TERMOPAR: CAMBIAR5AQUI</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.83444px;stroke-width:0.264583"
+         x="5.6518216"
+         y="27.917154"
+         id="tspan7634">MATERIAL DE FABRICACIÓN: CAMBIAR6AQUI</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:1.83444px;stroke-width:0.264583"
+         x="5.6518216"
+         y="31.217154"
+         id="tspan7636">LONGITUD DE IMERSIÓN: CAMBIAR7AQUI</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text400"
+       style="fill:#000000;font-size:6.93333333px;white-space:pre;shape-inside:url(#rect402)" />
+  </g>
+</svg>
