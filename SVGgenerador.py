@@ -37,17 +37,26 @@ def generate_svg_pdf_per_file(input_file, num_columns, output_dir, base_dir, max
     # Generate PDF
     generated_files = []
     for i, line in enumerate(data):
+        
+        #Create file name, avoiding special characters that may cause problems createing it
+        caracteres = ["\\", '/', ":", "*", "?", '"', "<", ">", "|", "."]
+        name = line[0]
+        for c in caracteres:
+            if c in name:
+                name = name.replace(c, "")
+                
+            
         with open(base_dir + f"Base_{len(line)}.svg", "r", encoding='utf8') as base_f, \
-             open(output_dir + line[0].split(":")[1] + ".svg", 'w', encoding='utf8') as write:
+             open(output_dir + name + ".svg", 'w', encoding='utf8') as write:
             for base_line in base_f:
                 for j in range(len(line)):
                     base_line = re.sub(f"CAMBIAR{j}AQUI", line[j], base_line)
-                write.write(base_line)
-
-        drawing = svg2rlg(output_dir + line[0].split(":")[1] + ".svg")
-        renderPDF.drawToFile(drawing, output_dir + line[0].split(":")[1] + ".pdf")
-        remove(output_dir + line[0].split(":")[1] + ".svg")
-        generated_files.append(line[0].split(":")[1] + ".pdf")
+                write.write(base_line)            
+            
+        drawing = svg2rlg(output_dir + name + ".svg")
+        renderPDF.drawToFile(drawing, output_dir + name + ".pdf")
+        remove(output_dir + name + ".svg")
+        generated_files.append(name + ".pdf")
 
     # Display generated files, grouping them by 30 if there are more than 30
     num_files = len(generated_files)
