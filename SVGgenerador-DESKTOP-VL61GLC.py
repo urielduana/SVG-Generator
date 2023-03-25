@@ -42,11 +42,7 @@ def generate_svg_pdf_per_file(input_file, num_columns, output_dir, base_dir, max
             
         with open(base_dir + f"Base_{len(line)}.svg", "r", encoding='utf8') as base_f, \
              open(output_dir + name + ".svg", 'w', encoding='utf8') as write:
-                 
-            # Agregar línea de codificación de caracteres
-            write.write('<?xml version="1.0" encoding="UTF-8" standalone="no"?>\n')
-                 
-
+            
             for base_line in base_f:
                 for j in range(len(line)):
                     base_line = re.sub(f"CAMBIAR{j}AQUI", line[j], base_line)
@@ -74,3 +70,11 @@ def generate_svg_pdf_per_file(input_file, num_columns, output_dir, base_dir, max
 
 
 
+# Example usage
+input_file = "datos.txt"
+num_columns = 7
+output_dir = "C:/Users/Vadose/OneDrive/Documentos/TAGS/031023/TerceraParte77pz/"
+base_dir = "bases/"
+max_chars = 60
+
+generate_svg_pdf_per_file(input_file, num_columns, output_dir, base_dir, max_chars)
