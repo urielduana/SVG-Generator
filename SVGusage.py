@@ -3,7 +3,7 @@ from SVGgenerador import *
 # Example usage
 input_file = "datos.txt"
 num_columns = 6
-output_dir = 'D:/Users/Vadose/OneDrive/Documentos/TAGS/210923/'
+output_dir = 'D:/Users/Vadose/OneDrive/Documentos/TAGS/270923/Doc02/'
 base_dir = "bases/"
 max_chars = 60
 
