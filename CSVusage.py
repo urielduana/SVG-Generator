@@ -2,7 +2,7 @@ from CSVtransform import *
 from SVGgenerador import *
 # Example usage
 input_file = 'datos.txt'
-output_dir = 'C:/Users/Vadose/OneDrive/Documentos/TAGS/prueba/'
+output_dir = 'D:/Users/Vadose/OneDrive/Documentos/TAGS/260923/PT2/'
 base_dir = 'bases/'
 max_chars = 60
 datos_csv = 'datos.csv'

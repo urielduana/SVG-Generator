@@ -39,7 +39,7 @@ def generate_svg_pdf_per_file(input_file, num_columns, output_dir, base_dir, max
     for i, line in enumerate(data):
         
         name = re.sub(r'\W+', '-', line[0])
-            
+        print(len(line))
         with open(base_dir + f"Base_{len(line)}.svg", "r", encoding='utf8') as base_f, \
              open(output_dir + name + ".svg", 'w', encoding='utf8') as write:
                  
@@ -58,18 +58,18 @@ def generate_svg_pdf_per_file(input_file, num_columns, output_dir, base_dir, max
         generated_files.append(name + ".pdf")
 
     # Display generated files, grouping them by 30 if there are more than 30
-    num_files = len(generated_files)
-    if num_files <= 30:
-        messagebox.showinfo("PDF Generation", f"{num_files} PDFs were generated:\n" + "\n".join(generated_files))
-    else:
-        num_groups = num_files // 30 + (1 if num_files % 30 != 0 else 0)
-        total = 0
-        for i in range(num_groups):
-            group_start = i * 30
-            group_end = (i + 1) * 30
-            group_files = generated_files[group_start:group_end]
-            total = total + len(group_files)
-            messagebox.showinfo("PDF Generation", f"{total} PDFs were generated (group {i+1}/{num_groups}):\n" + "\n".join(group_files))
+    # num_files = len(generated_files)
+    # if num_files <= 30:
+    #     messagebox.showinfo("PDF Generation", f"{num_files} PDFs were generated:\n" + "\n".join(generated_files))
+    # else:
+    #     num_groups = num_files // 30 + (1 if num_files % 30 != 0 else 0)
+    #     total = 0
+    #     for i in range(num_groups):
+    #         group_start = i * 30
+    #         group_end = (i + 1) * 30
+    #         group_files = generated_files[group_start:group_end]
+    #         total = total + len(group_files)
+    #         messagebox.showinfo("PDF Generation", f"{total} PDFs were generated (group {i+1}/{num_groups}):\n" + "\n".join(group_files))
 
 
 

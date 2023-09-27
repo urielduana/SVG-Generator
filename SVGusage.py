@@ -2,8 +2,8 @@ from SVGgenerador import *
 
 # Example usage
 input_file = "datos.txt"
-num_columns = 1
-output_dir = "C:/Users/Vadose/OneDrive/Documentos/TAGS/031723/"
+num_columns = 6
+output_dir = 'D:/Users/Vadose/OneDrive/Documentos/TAGS/210923/'
 base_dir = "bases/"
 max_chars = 60
 
